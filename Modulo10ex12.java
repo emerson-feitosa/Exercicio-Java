@@ -52,6 +52,7 @@ public class Modulo10ex12 {
 
         //adicionando isso aqui
         //add isso aqui dnv
-
+        // add isso aqui teste
+        //add isso tbm
     }
 }
