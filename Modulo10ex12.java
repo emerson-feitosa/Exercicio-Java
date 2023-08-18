@@ -50,5 +50,7 @@ public class Modulo10ex12 {
         }
         scanner.close();
 
+        //adicionando isso aqui
+
     }
 }
